@@ -2,7 +2,7 @@
 filename: mapreduce2.py
 Author: Sheila Yeboah
 Due Date: 9/24/25
-Assignment: MapReduce Assignment Part 1
+Assignment: MapReduce Assignment
 Description: Using Mapreduce, search through text from the Harry Potter book series. Part 2
 Task: Count how many times non-English words (names, places, spells etc.) were used. List those words and how many times each was repeated.
 """
